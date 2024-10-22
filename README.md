@@ -1,3 +1,9 @@
+# [Culinary Compass](https://culinarycompass.us)
+
+### Culinary Compass is a simple CRUD application that allows for users to share recipes with the online community. Users can favorite recipes, add them to their profile, share to their friends and family, and create a following. Anyone can enjoy the countless recipes posted by scrolling through the main page and search page for dishes they find interesting! 
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
